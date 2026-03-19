@@ -1,4 +1,4 @@
 # my-first-project 
-This is my first Git repository.
+This is my portfolio Git repository.
 <br>
 Author - Jyotirani sahu
